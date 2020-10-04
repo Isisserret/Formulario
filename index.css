@@ -3,6 +3,9 @@ h1 {
 }
 
 body {
+    
+    text-align: justify;
+    width: 800px;
     margin: 40px 25px;
 }
 fieldset {
